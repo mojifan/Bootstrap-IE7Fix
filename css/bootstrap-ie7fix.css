@@ -359,7 +359,9 @@ table col,
 textarea {
   zoom: 1;
 }  
-
+ul,ol{
+  margin-left: 0;
+}
 /* Everything that is display:inline-block needs the IE inline hack */
 audio,
 canvas,
